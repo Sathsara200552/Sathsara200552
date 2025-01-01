@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Sathsara</h1>
 <h4 align="center">I'm a Software Engineer specializing in Java, with expertise in building modern, responsive websites using React JS, HTML/CSS, PHP, and JavaScript. I also develop mobile applications using React Native Expo. My passion for technology drives me to continuously improve my skills and contribute to projects that solve real-world problems.</h4>
 
+<img align="center" width="1400" height="400" alt="coding" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263" />
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sathsara200552&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesha-sathsara" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sathsara200552" alt="kaveesha-sathsara" /></a> </p>
 
 
 - 🔭 I’m currently working on **AQUOS Software Solutions**
